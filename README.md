@@ -61,7 +61,7 @@ Don't be afraid to ask for clarification about questions, or for their view on t
 If you're talking about a difficult topic or concept, it can be good to show that you have an emotional reaction to it.  You could recount your frustration with mastering a concept (before finally conquering it). You could talk about your joy in what you do or your accomplishments. You could crack a joke about one of the many frivolous debates or gripes programmers have (gif vs. gif, dealing with git merge errors, spending hours seraching for a bug before finding that it's a type). Show them the best of your personality.
 
 ### Lying
-There's a thing line between lying, selective phrasing, and exageration. This is a tricky and risky topic.
+There's a thin line between lying, selective phrasing, and exageration. This is a tricky and risky topic.
 
 **Do not lie about facts.** Don't say you know things that you've never seen before, or that you've done things that you haven't.
 
